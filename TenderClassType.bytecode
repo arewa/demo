@@ -1,0 +1,205 @@
+import java.util.*;
+import org.objectweb.asm.*;
+import org.objectweb.asm.attrs.*;
+public class TenderClassTypeDump implements Opcodes {
+
+public static byte[] dump () throws Exception {
+
+ClassWriter cw = new ClassWriter(0);
+FieldVisitor fv;
+MethodVisitor mv;
+AnnotationVisitor av0;
+
+cw.visit(V1_7, ACC_PUBLIC + ACC_FINAL + ACC_SUPER + ACC_ENUM, "TenderClassType", "Ljava/lang/Enum<LTenderClassType;>;", "java/lang/Enum", null);
+
+{
+av0 = cw.visitAnnotation("Ljavax/xml/bind/annotation/XmlType;", true);
+av0.visit("name", "TenderClassType");
+av0.visitEnd();
+}
+{
+av0 = cw.visitAnnotation("Ljavax/xml/bind/annotation/XmlEnum;", true);
+av0.visitEnd();
+}
+{
+fv = cw.visitField(ACC_PUBLIC + ACC_FINAL + ACC_STATIC + ACC_ENUM, "CREDIT_CARD", "LTenderClassType;", null, null);
+{
+av0 = fv.visitAnnotation("Ljavax/xml/bind/annotation/XmlEnumValue;", true);
+av0.visit("value", "CreditCard");
+av0.visitEnd();
+}
+fv.visitEnd();
+}
+{
+fv = cw.visitField(ACC_PUBLIC + ACC_FINAL + ACC_STATIC + ACC_ENUM, "STORED_VALUE", "LTenderClassType;", null, null);
+{
+av0 = fv.visitAnnotation("Ljavax/xml/bind/annotation/XmlEnumValue;", true);
+av0.visit("value", "StoredValue");
+av0.visitEnd();
+}
+fv.visitEnd();
+}
+{
+fv = cw.visitField(ACC_PUBLIC + ACC_FINAL + ACC_STATIC + ACC_ENUM, "BANK_ACCOUNT", "LTenderClassType;", null, null);
+{
+av0 = fv.visitAnnotation("Ljavax/xml/bind/annotation/XmlEnumValue;", true);
+av0.visit("value", "BankAccount");
+av0.visitEnd();
+}
+fv.visitEnd();
+}
+{
+fv = cw.visitField(ACC_PRIVATE + ACC_FINAL, "value", "Ljava/lang/String;", null, null);
+fv.visitEnd();
+}
+{
+fv = cw.visitField(ACC_PRIVATE + ACC_FINAL + ACC_STATIC + ACC_SYNTHETIC, "ENUM$VALUES", "[LTenderClassType;", null, null);
+fv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_STATIC, "<clinit>", "()V", null, null);
+mv.visitCode();
+mv.visitTypeInsn(NEW, "TenderClassType");
+mv.visitInsn(DUP);
+mv.visitLdcInsn("CREDIT_CARD");
+mv.visitInsn(ICONST_0);
+mv.visitLdcInsn("CreditCard");
+mv.visitMethodInsn(INVOKESPECIAL, "TenderClassType", "<init>", "(Ljava/lang/String;ILjava/lang/String;)V");
+mv.visitFieldInsn(PUTSTATIC, "TenderClassType", "CREDIT_CARD", "LTenderClassType;");
+mv.visitTypeInsn(NEW, "TenderClassType");
+mv.visitInsn(DUP);
+mv.visitLdcInsn("STORED_VALUE");
+mv.visitInsn(ICONST_1);
+mv.visitLdcInsn("StoredValue");
+mv.visitMethodInsn(INVOKESPECIAL, "TenderClassType", "<init>", "(Ljava/lang/String;ILjava/lang/String;)V");
+mv.visitFieldInsn(PUTSTATIC, "TenderClassType", "STORED_VALUE", "LTenderClassType;");
+mv.visitTypeInsn(NEW, "TenderClassType");
+mv.visitInsn(DUP);
+mv.visitLdcInsn("BANK_ACCOUNT");
+mv.visitInsn(ICONST_2);
+mv.visitLdcInsn("BankAccount");
+mv.visitMethodInsn(INVOKESPECIAL, "TenderClassType", "<init>", "(Ljava/lang/String;ILjava/lang/String;)V");
+mv.visitFieldInsn(PUTSTATIC, "TenderClassType", "BANK_ACCOUNT", "LTenderClassType;");
+mv.visitInsn(ICONST_3);
+mv.visitTypeInsn(ANEWARRAY, "TenderClassType");
+mv.visitInsn(DUP);
+mv.visitInsn(ICONST_0);
+mv.visitFieldInsn(GETSTATIC, "TenderClassType", "CREDIT_CARD", "LTenderClassType;");
+mv.visitInsn(AASTORE);
+mv.visitInsn(DUP);
+mv.visitInsn(ICONST_1);
+mv.visitFieldInsn(GETSTATIC, "TenderClassType", "STORED_VALUE", "LTenderClassType;");
+mv.visitInsn(AASTORE);
+mv.visitInsn(DUP);
+mv.visitInsn(ICONST_2);
+mv.visitFieldInsn(GETSTATIC, "TenderClassType", "BANK_ACCOUNT", "LTenderClassType;");
+mv.visitInsn(AASTORE);
+mv.visitFieldInsn(PUTSTATIC, "TenderClassType", "ENUM$VALUES", "[LTenderClassType;");
+mv.visitInsn(RETURN);
+mv.visitMaxs(5, 0);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PRIVATE, "<init>", "(Ljava/lang/String;ILjava/lang/String;)V", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitVarInsn(ALOAD, 1);
+mv.visitVarInsn(ILOAD, 2);
+mv.visitMethodInsn(INVOKESPECIAL, "java/lang/Enum", "<init>", "(Ljava/lang/String;I)V");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitVarInsn(ALOAD, 3);
+mv.visitFieldInsn(PUTFIELD, "TenderClassType", "value", "Ljava/lang/String;");
+mv.visitInsn(RETURN);
+mv.visitMaxs(3, 4);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "value", "()Ljava/lang/String;", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitFieldInsn(GETFIELD, "TenderClassType", "value", "Ljava/lang/String;");
+mv.visitInsn(ARETURN);
+mv.visitMaxs(1, 1);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC + ACC_STATIC, "fromValue", "(Ljava/lang/String;)LTenderClassType;", null, null);
+mv.visitCode();
+mv.visitMethodInsn(INVOKESTATIC, "TenderClassType", "values", "()[LTenderClassType;");
+mv.visitInsn(DUP);
+mv.visitVarInsn(ASTORE, 4);
+mv.visitInsn(ARRAYLENGTH);
+mv.visitVarInsn(ISTORE, 3);
+mv.visitInsn(ICONST_0);
+mv.visitVarInsn(ISTORE, 2);
+Label l0 = new Label();
+mv.visitJumpInsn(GOTO, l0);
+Label l1 = new Label();
+mv.visitLabel(l1);
+mv.visitFrame(Opcodes.F_FULL, 5, new Object[] {"java/lang/String", Opcodes.TOP, Opcodes.INTEGER, Opcodes.INTEGER, "[LTenderClassType;"}, 0, new Object[] {});
+mv.visitVarInsn(ALOAD, 4);
+mv.visitVarInsn(ILOAD, 2);
+mv.visitInsn(AALOAD);
+mv.visitVarInsn(ASTORE, 1);
+mv.visitVarInsn(ALOAD, 1);
+mv.visitFieldInsn(GETFIELD, "TenderClassType", "value", "Ljava/lang/String;");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitMethodInsn(INVOKEVIRTUAL, "java/lang/String", "equals", "(Ljava/lang/Object;)Z");
+Label l2 = new Label();
+mv.visitJumpInsn(IFEQ, l2);
+mv.visitVarInsn(ALOAD, 1);
+mv.visitInsn(ARETURN);
+mv.visitLabel(l2);
+mv.visitFrame(Opcodes.F_SAME, 0, null, 0, null);
+mv.visitIincInsn(2, 1);
+mv.visitLabel(l0);
+mv.visitFrame(Opcodes.F_SAME, 0, null, 0, null);
+mv.visitVarInsn(ILOAD, 2);
+mv.visitVarInsn(ILOAD, 3);
+mv.visitJumpInsn(IF_ICMPLT, l1);
+mv.visitTypeInsn(NEW, "java/lang/IllegalArgumentException");
+mv.visitInsn(DUP);
+mv.visitVarInsn(ALOAD, 0);
+mv.visitMethodInsn(INVOKESPECIAL, "java/lang/IllegalArgumentException", "<init>", "(Ljava/lang/String;)V");
+mv.visitInsn(ATHROW);
+mv.visitMaxs(3, 5);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC + ACC_STATIC, "values", "()[LTenderClassType;", null, null);
+mv.visitCode();
+mv.visitFieldInsn(GETSTATIC, "TenderClassType", "ENUM$VALUES", "[LTenderClassType;");
+mv.visitInsn(DUP);
+mv.visitVarInsn(ASTORE, 0);
+mv.visitInsn(ICONST_0);
+mv.visitVarInsn(ALOAD, 0);
+mv.visitInsn(ARRAYLENGTH);
+mv.visitInsn(DUP);
+mv.visitVarInsn(ISTORE, 1);
+mv.visitTypeInsn(ANEWARRAY, "TenderClassType");
+mv.visitInsn(DUP);
+mv.visitVarInsn(ASTORE, 2);
+mv.visitInsn(ICONST_0);
+mv.visitVarInsn(ILOAD, 1);
+mv.visitMethodInsn(INVOKESTATIC, "java/lang/System", "arraycopy", "(Ljava/lang/Object;ILjava/lang/Object;II)V");
+mv.visitVarInsn(ALOAD, 2);
+mv.visitInsn(ARETURN);
+mv.visitMaxs(5, 3);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC + ACC_STATIC, "valueOf", "(Ljava/lang/String;)LTenderClassType;", null, null);
+mv.visitCode();
+mv.visitLdcInsn(Type.getType("LTenderClassType;"));
+mv.visitVarInsn(ALOAD, 0);
+mv.visitMethodInsn(INVOKESTATIC, "java/lang/Enum", "valueOf", "(Ljava/lang/Class;Ljava/lang/String;)Ljava/lang/Enum;");
+mv.visitTypeInsn(CHECKCAST, "TenderClassType");
+mv.visitInsn(ARETURN);
+mv.visitMaxs(2, 1);
+mv.visitEnd();
+}
+cw.visitEnd();
+
+return cw.toByteArray();
+}
+}

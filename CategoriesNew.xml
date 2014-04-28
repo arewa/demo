@@ -1,0 +1,5601 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><enfinity xmlns="http://www.intershop.com/xml/ns/enfinity/6.5/xcs/impex" xmlns:dt="http://www.intershop.com/xml/ns/enfinity/6.5/core/impex-dt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" branch="enterprise" build="6.6.21.1.8" family="enfinity" major="6" minor="1" xsi:schemaLocation="http://www.intershop.com/xml/ns/enfinity/6.5/xcs/impex catalog.xsd http://www.intershop.com/xml/ns/enfinity/6.5/core/impex-dt dt.xsd">
+<category name="20009">
+  <name>20009</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Vests</description>
+  <display-name xml:lang="en-US">Vests</display-name>
+  <parent name="2007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20008">
+  <name>20008</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Ponchos</description>
+  <display-name xml:lang="en-US">Ponchos</display-name>
+  <parent name="2007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20043">
+  <name>20043</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Coverups</description>
+  <display-name xml:lang="en-US">Coverups</display-name>
+  <parent name="2018"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20042">
+  <name>20042</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">2 Piece</description>
+  <display-name xml:lang="en-US">2 Piece</display-name>
+  <parent name="2018"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20041">
+  <name>20041</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">1 Piece</description>
+  <display-name xml:lang="en-US">1 Piece</display-name>
+  <parent name="2018"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20040">
+  <name>20040</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Velour  </description>
+  <display-name xml:lang="en-US">Velour  </display-name>
+  <parent name="2016"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20047">
+  <name>20047</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants</description>
+  <display-name xml:lang="en-US">Pants</display-name>
+  <parent name="2019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20046">
+  <name>20046</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Jackets</description>
+  <display-name xml:lang="en-US">Jackets</display-name>
+  <parent name="2019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20045">
+  <name>20045</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sweaters</description>
+  <display-name xml:lang="en-US">Sweaters</display-name>
+  <parent name="2019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20044">
+  <name>20044</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Tops</description>
+  <display-name xml:lang="en-US">Tops</display-name>
+  <parent name="2019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20049">
+  <name>20049</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Skirts</description>
+  <display-name xml:lang="en-US">Skirts</display-name>
+  <parent name="2019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20048">
+  <name>20048</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Denim</description>
+  <display-name xml:lang="en-US">Denim</display-name>
+  <parent name="2019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1018">
+  <name>1018</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Electronics</description>
+  <display-name xml:lang="en-US">Electronics</display-name>
+  <parent name="103"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1019">
+  <name>1019</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Toys &amp; Games</description>
+  <display-name xml:lang="en-US">Toys &amp; Games</display-name>
+  <parent name="103"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1014">
+  <name>1014</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shirts &amp; Sweaters</description>
+  <display-name xml:lang="en-US">Shirts &amp; Sweaters</display-name>
+  <parent name="102"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1015">
+  <name>1015</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants</description>
+  <display-name xml:lang="en-US">Pants</display-name>
+  <parent name="102"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1016">
+  <name>1016</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shorts</description>
+  <display-name xml:lang="en-US">Shorts</display-name>
+  <parent name="102"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1017">
+  <name>1017</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accessories</description>
+  <display-name xml:lang="en-US">Accessories</display-name>
+  <parent name="102"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1010">
+  <name>1010</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Denim</description>
+  <display-name xml:lang="en-US">Denim</display-name>
+  <parent name="101"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1011">
+  <name>1011</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Underwear &amp; Loungewear</description>
+  <display-name xml:lang="en-US">Underwear &amp; Loungewear</display-name>
+  <parent name="101"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1012">
+  <name>1012</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Activewear</description>
+  <display-name xml:lang="en-US">Activewear</display-name>
+  <parent name="101"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1013">
+  <name>1013</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Outerwear</description>
+  <display-name xml:lang="en-US">Outerwear</display-name>
+  <parent name="102"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5003">
+  <name>5003</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Wallets</description>
+  <display-name xml:lang="en-US">Wallets</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5002">
+  <name>5002</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Handbags</description>
+  <display-name xml:lang="en-US">Handbags</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5001">
+  <name>5001</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fab Finds</description>
+  <display-name xml:lang="en-US">Fab Finds</display-name>
+  <parent name="500"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5000">
+  <name>5000</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">New Arrivals</description>
+  <display-name xml:lang="en-US">New Arrivals</display-name>
+  <parent name="500"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5007">
+  <name>5007</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Hair Accessories</description>
+  <display-name xml:lang="en-US">Hair Accessories</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5006">
+  <name>5006</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Eyewear</description>
+  <display-name xml:lang="en-US">Eyewear</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5005">
+  <name>5005</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Watches</description>
+  <display-name xml:lang="en-US">Watches</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5004">
+  <name>5004</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Jewelry</description>
+  <display-name xml:lang="en-US">Jewelry</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5009">
+  <name>5009</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Hats</description>
+  <display-name xml:lang="en-US">Hats</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5008">
+  <name>5008</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Scarves &amp; Wraps</description>
+  <display-name xml:lang="en-US">Scarves &amp; Wraps</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="102">
+  <name>102</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Golf</description>
+  <display-name xml:lang="en-US">Golf</display-name>
+  <parent name="10"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="103">
+  <name>103</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Gifts &amp; Electronics*</description>
+  <display-name xml:lang="en-US">Gifts &amp; Electronics*</display-name>
+  <parent name="10"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="100">
+  <name>100</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Featured</description>
+  <display-name xml:lang="en-US">Featured</display-name>
+  <parent name="10"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="101">
+  <name>101</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Apparel</description>
+  <display-name xml:lang="en-US">Apparel</display-name>
+  <parent name="10"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80052">
+  <name>80052</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Napkins</description>
+  <display-name xml:lang="en-US">Napkins</display-name>
+  <parent name="8020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80053">
+  <name>80053</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Kitchen Linens</description>
+  <display-name xml:lang="en-US">Kitchen Linens</display-name>
+  <parent name="8020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80050">
+  <name>80050</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Table Clothes</description>
+  <display-name xml:lang="en-US">Table Clothes</display-name>
+  <parent name="8020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80051">
+  <name>80051</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Placemats</description>
+  <display-name xml:lang="en-US">Placemats</display-name>
+  <parent name="8020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80056">
+  <name>80056</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Decorative </description>
+  <display-name xml:lang="en-US">Decorative </display-name>
+  <parent name="8021"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80054">
+  <name>80054</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Cookware</description>
+  <display-name xml:lang="en-US">Cookware</display-name>
+  <parent name="8021"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80055">
+  <name>80055</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Gadgets  </description>
+  <display-name xml:lang="en-US">Gadgets  </display-name>
+  <parent name="8021"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10028">
+  <name>10028</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Vests</description>
+  <display-name xml:lang="en-US">Vests</display-name>
+  <parent name="1014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10029">
+  <name>10029</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sweaters</description>
+  <display-name xml:lang="en-US">Sweaters</display-name>
+  <parent name="1014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10026">
+  <name>10026</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Warm-ups</description>
+  <display-name xml:lang="en-US">Warm-ups</display-name>
+  <parent name="1012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10027">
+  <name>10027</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shirts</description>
+  <display-name xml:lang="en-US">Shirts</display-name>
+  <parent name="1014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10024">
+  <name>10024</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fleece</description>
+  <display-name xml:lang="en-US">Fleece</display-name>
+  <parent name="1012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10025">
+  <name>10025</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Swim</description>
+  <display-name xml:lang="en-US">Swim</display-name>
+  <parent name="1012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10022">
+  <name>10022</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants</description>
+  <display-name xml:lang="en-US">Pants</display-name>
+  <parent name="1012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10023">
+  <name>10023</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shorts</description>
+  <display-name xml:lang="en-US">Shorts</display-name>
+  <parent name="1012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10020">
+  <name>10020</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Slippers</description>
+  <display-name xml:lang="en-US">Slippers</display-name>
+  <parent name="1011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10021">
+  <name>10021</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Tees</description>
+  <display-name xml:lang="en-US">Tees</display-name>
+  <parent name="1012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50040">
+  <name>50040</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Socks</description>
+  <display-name xml:lang="en-US">Socks</display-name>
+  <parent name="5026"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7009">
+  <name>7009</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Socks</description>
+  <display-name xml:lang="en-US">Socks</display-name>
+  <parent name="701"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7008">
+  <name>7008</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Rain Boots</description>
+  <display-name xml:lang="en-US">Rain Boots</display-name>
+  <parent name="701"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20005">
+  <name>20005</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Twin Sets</description>
+  <display-name xml:lang="en-US">Twin Sets</display-name>
+  <parent name="2007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20004">
+  <name>20004</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Cardigans</description>
+  <display-name xml:lang="en-US">Cardigans</display-name>
+  <parent name="2007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20003">
+  <name>20003</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Tees</description>
+  <display-name xml:lang="en-US">Tees</display-name>
+  <parent name="2005"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20002">
+  <name>20002</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Camisoles &amp; Tanks</description>
+  <display-name xml:lang="en-US">Camisoles &amp; Tanks</display-name>
+  <parent name="2005"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20001">
+  <name>20001</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Knit Tops</description>
+  <display-name xml:lang="en-US">Knit Tops</display-name>
+  <parent name="2005"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20000">
+  <name>20000</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Blouses &amp; Shirts</description>
+  <display-name xml:lang="en-US">Blouses &amp; Shirts</display-name>
+  <parent name="2005"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7001">
+  <name>7001</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fab Finds</description>
+  <display-name xml:lang="en-US">Fab Finds</display-name>
+  <parent name="700"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7000">
+  <name>7000</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">New Arrivals</description>
+  <display-name xml:lang="en-US">New Arrivals</display-name>
+  <parent name="700"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7003">
+  <name>7003</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Flats and Casual</description>
+  <display-name xml:lang="en-US">Flats and Casual</display-name>
+  <parent name="701"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7002">
+  <name>7002</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pumps &amp; Heels</description>
+  <display-name xml:lang="en-US">Pumps &amp; Heels</display-name>
+  <parent name="701"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7005">
+  <name>7005</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Boots</description>
+  <display-name xml:lang="en-US">Boots</display-name>
+  <parent name="701"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7004">
+  <name>7004</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sandals</description>
+  <display-name xml:lang="en-US">Sandals</display-name>
+  <parent name="701"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7007">
+  <name>7007</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Slippers</description>
+  <display-name xml:lang="en-US">Slippers</display-name>
+  <parent name="701"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7006">
+  <name>7006</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Athletic</description>
+  <display-name xml:lang="en-US">Athletic</display-name>
+  <parent name="701"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8019">
+  <name>8019</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Outdoor</description>
+  <display-name xml:lang="en-US">Outdoor</display-name>
+  <parent name="803"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8018">
+  <name>8018</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Serveware</description>
+  <display-name xml:lang="en-US">Serveware</display-name>
+  <parent name="803"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8017">
+  <name>8017</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Drinkware &amp; Bar</description>
+  <display-name xml:lang="en-US">Drinkware &amp; Bar</display-name>
+  <parent name="803"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8016">
+  <name>8016</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Dinnerware</description>
+  <display-name xml:lang="en-US">Dinnerware</display-name>
+  <parent name="803"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8015">
+  <name>8015</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Crystal</description>
+  <display-name xml:lang="en-US">Crystal</display-name>
+  <parent name="802"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8014">
+  <name>8014</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Wall Art &amp; Decor</description>
+  <display-name xml:lang="en-US">Wall Art &amp; Decor</display-name>
+  <parent name="802"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8013">
+  <name>8013</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Furniture</description>
+  <display-name xml:lang="en-US">Furniture</display-name>
+  <parent name="802"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8012">
+  <name>8012</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Lamps</description>
+  <display-name xml:lang="en-US">Lamps</display-name>
+  <parent name="802"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8011">
+  <name>8011</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Stationary &amp; Storage</description>
+  <display-name xml:lang="en-US">Stationary &amp; Storage</display-name>
+  <parent name="802"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8010">
+  <name>8010</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Frames</description>
+  <display-name xml:lang="en-US">Frames</display-name>
+  <parent name="802"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50000">
+  <name>50000</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Leather</description>
+  <display-name xml:lang="en-US">Leather</display-name>
+  <parent name="5002"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="25">
+  <name>25</name>
+  <root>1</root>
+  <product-assignment-query/>
+  <template/>
+  <online>1</online>
+  <position>1.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Stein Mart Store Launch</description>
+  <display-name xml:lang="en-US">Stein Mart Store Launch</display-name>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50002">
+  <name>50002</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Straw</description>
+  <display-name xml:lang="en-US">Straw</display-name>
+  <parent name="5002"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50003">
+  <name>50003</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fabric</description>
+  <display-name xml:lang="en-US">Fabric</display-name>
+  <parent name="5002"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20">
+  <name>20</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>1.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Women</description>
+  <display-name xml:lang="en-US">Women</display-name>
+  <parent name="25"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50005">
+  <name>50005</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Mini Bags</description>
+  <display-name xml:lang="en-US">Mini Bags</display-name>
+  <parent name="5002"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50006">
+  <name>50006</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Necklace</description>
+  <display-name xml:lang="en-US">Necklace</display-name>
+  <parent name="5004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50007">
+  <name>50007</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Earrings</description>
+  <display-name xml:lang="en-US">Earrings</display-name>
+  <parent name="5004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50008">
+  <name>50008</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bracelets</description>
+  <display-name xml:lang="en-US">Bracelets</display-name>
+  <parent name="5004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50009">
+  <name>50009</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Rings</description>
+  <display-name xml:lang="en-US">Rings</display-name>
+  <parent name="5004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2019">
+  <name>2019</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Petites</description>
+  <display-name xml:lang="en-US">Petites</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2018">
+  <name>2018</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Swim</description>
+  <display-name xml:lang="en-US">Swim</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="401">
+  <name>401</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Clearance</description>
+  <display-name xml:lang="en-US">Clearance</display-name>
+  <parent name="40"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="400">
+  <name>400</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sale</description>
+  <display-name xml:lang="en-US">Sale</display-name>
+  <parent name="40"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2015">
+  <name>2015</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sleepwear</description>
+  <display-name xml:lang="en-US">Sleepwear</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80022">
+  <name>80022</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Floral</description>
+  <display-name xml:lang="en-US">Floral</display-name>
+  <parent name="8008"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2017">
+  <name>2017</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Outerwear</description>
+  <display-name xml:lang="en-US">Outerwear</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2016">
+  <name>2016</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Activewear</description>
+  <display-name xml:lang="en-US">Activewear</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2011">
+  <name>2011</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants &amp; Shorts</description>
+  <display-name xml:lang="en-US">Pants &amp; Shorts</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2010">
+  <name>2010</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Dresses</description>
+  <display-name xml:lang="en-US">Dresses</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2013">
+  <name>2013</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Skirts</description>
+  <display-name xml:lang="en-US">Skirts</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2012">
+  <name>2012</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Denim</description>
+  <display-name xml:lang="en-US">Denim</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50022">
+  <name>50022</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Rain Boots</description>
+  <display-name xml:lang="en-US">Rain Boots</display-name>
+  <parent name="5013"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50023">
+  <name>50023</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Rain Jacket</description>
+  <display-name xml:lang="en-US">Rain Jacket</display-name>
+  <parent name="5013"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50020">
+  <name>50020</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accessories</description>
+  <display-name xml:lang="en-US">Accessories</display-name>
+  <parent name="5012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50021">
+  <name>50021</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Umbrellas</description>
+  <display-name xml:lang="en-US">Umbrellas</display-name>
+  <parent name="5013"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50026">
+  <name>50026</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Mufflers</description>
+  <display-name xml:lang="en-US">Mufflers</display-name>
+  <parent name="5014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50027">
+  <name>50027</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Ruanas</description>
+  <display-name xml:lang="en-US">Ruanas</display-name>
+  <parent name="5014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50024">
+  <name>50024</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Winter Hats</description>
+  <display-name xml:lang="en-US">Winter Hats</display-name>
+  <parent name="5014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50025">
+  <name>50025</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Gloves</description>
+  <display-name xml:lang="en-US">Gloves</display-name>
+  <parent name="5014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="700">
+  <name>700</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Featured</description>
+  <display-name xml:lang="en-US">Featured</display-name>
+  <parent name="70"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="701">
+  <name>701</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Women</description>
+  <display-name xml:lang="en-US">Women</display-name>
+  <parent name="70"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="702">
+  <name>702</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Men</description>
+  <display-name xml:lang="en-US">Men</display-name>
+  <parent name="70"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7017">
+  <name>7017</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Socks</description>
+  <display-name xml:lang="en-US">Socks</display-name>
+  <parent name="702"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80">
+  <name>80</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>1.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Home</description>
+  <display-name xml:lang="en-US">Home</display-name>
+  <parent name="25"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20058">
+  <name>20058</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Swim</description>
+  <display-name xml:lang="en-US">Swim</display-name>
+  <parent name="2020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20054">
+  <name>20054</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants</description>
+  <display-name xml:lang="en-US">Pants</display-name>
+  <parent name="2020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20055">
+  <name>20055</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Denim</description>
+  <display-name xml:lang="en-US">Denim</display-name>
+  <parent name="2020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20056">
+  <name>20056</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Skirts</description>
+  <display-name xml:lang="en-US">Skirts</display-name>
+  <parent name="2020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20057">
+  <name>20057</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Dresses</description>
+  <display-name xml:lang="en-US">Dresses</display-name>
+  <parent name="2020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20050">
+  <name>20050</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Dresses</description>
+  <display-name xml:lang="en-US">Dresses</display-name>
+  <parent name="2019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20051">
+  <name>20051</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Tops</description>
+  <display-name xml:lang="en-US">Tops</display-name>
+  <parent name="2020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20052">
+  <name>20052</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sweaters</description>
+  <display-name xml:lang="en-US">Sweaters</display-name>
+  <parent name="2020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20053">
+  <name>20053</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Jackets</description>
+  <display-name xml:lang="en-US">Jackets</display-name>
+  <parent name="2020"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1009">
+  <name>1009</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants &amp; shorts</description>
+  <display-name xml:lang="en-US">Pants &amp; shorts</display-name>
+  <parent name="101"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1008">
+  <name>1008</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Suit Separates</description>
+  <display-name xml:lang="en-US">Suit Separates</display-name>
+  <parent name="101"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1007">
+  <name>1007</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Jackets</description>
+  <display-name xml:lang="en-US">Jackets</display-name>
+  <parent name="101"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1006">
+  <name>1006</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sweaters</description>
+  <display-name xml:lang="en-US">Sweaters</display-name>
+  <parent name="101"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1005">
+  <name>1005</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Cashmere</description>
+  <display-name xml:lang="en-US">Cashmere</display-name>
+  <parent name="101"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1004">
+  <name>1004</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shirts </description>
+  <display-name xml:lang="en-US">Shirts </display-name>
+  <parent name="101"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1003">
+  <name>1003</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shoes</description>
+  <display-name xml:lang="en-US">Shoes</display-name>
+  <parent name="100"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1002">
+  <name>1002</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accessories</description>
+  <display-name xml:lang="en-US">Accessories</display-name>
+  <parent name="100"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1001">
+  <name>1001</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fab Finds</description>
+  <display-name xml:lang="en-US">Fab Finds</display-name>
+  <parent name="100"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1000">
+  <name>1000</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">New Arrivals</description>
+  <display-name xml:lang="en-US">New Arrivals</display-name>
+  <parent name="100"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20031">
+  <name>20031</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accessories</description>
+  <display-name xml:lang="en-US">Accessories</display-name>
+  <parent name="2014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10019">
+  <name>10019</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Robes</description>
+  <display-name xml:lang="en-US">Robes</display-name>
+  <parent name="1011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10018">
+  <name>10018</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pajamas</description>
+  <display-name xml:lang="en-US">Pajamas</display-name>
+  <parent name="1011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10013">
+  <name>10013</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shorts</description>
+  <display-name xml:lang="en-US">Shorts</display-name>
+  <parent name="1009"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10012">
+  <name>10012</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants</description>
+  <display-name xml:lang="en-US">Pants</display-name>
+  <parent name="1009"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10011">
+  <name>10011</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Vests</description>
+  <display-name xml:lang="en-US">Vests</display-name>
+  <parent name="1008"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10010">
+  <name>10010</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants</description>
+  <display-name xml:lang="en-US">Pants</display-name>
+  <parent name="1008"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10017">
+  <name>10017</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Undershirts</description>
+  <display-name xml:lang="en-US">Undershirts</display-name>
+  <parent name="1011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10016">
+  <name>10016</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Boxer Briefs</description>
+  <display-name xml:lang="en-US">Boxer Briefs</display-name>
+  <parent name="1011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10015">
+  <name>10015</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Boxers</description>
+  <display-name xml:lang="en-US">Boxers</display-name>
+  <parent name="1011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10014">
+  <name>10014</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Briefs</description>
+  <display-name xml:lang="en-US">Briefs</display-name>
+  <parent name="1011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10">
+  <name>10</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>1.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Men</description>
+  <display-name xml:lang="en-US">Men</display-name>
+  <parent name="25"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50039">
+  <name>50039</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Slippers</description>
+  <display-name xml:lang="en-US">Slippers</display-name>
+  <parent name="5026"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50038">
+  <name>50038</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Scarves</description>
+  <display-name xml:lang="en-US">Scarves</display-name>
+  <parent name="5025"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2020">
+  <name>2020</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Plus</description>
+  <display-name xml:lang="en-US">Plus</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50031">
+  <name>50031</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Rain Boots</description>
+  <display-name xml:lang="en-US">Rain Boots</display-name>
+  <parent name="5015"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50030">
+  <name>50030</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Socks</description>
+  <display-name xml:lang="en-US">Socks</display-name>
+  <parent name="5015"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50033">
+  <name>50033</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Jewelry</description>
+  <display-name xml:lang="en-US">Jewelry</display-name>
+  <parent name="5017"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50032">
+  <name>50032</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Watches</description>
+  <display-name xml:lang="en-US">Watches</display-name>
+  <parent name="5017"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50035">
+  <name>50035</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Readers</description>
+  <display-name xml:lang="en-US">Readers</display-name>
+  <parent name="5019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50034">
+  <name>50034</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sunglasses</description>
+  <display-name xml:lang="en-US">Sunglasses</display-name>
+  <parent name="5019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50037">
+  <name>50037</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Gloves</description>
+  <display-name xml:lang="en-US">Gloves</display-name>
+  <parent name="5025"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50036">
+  <name>50036</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Hats</description>
+  <display-name xml:lang="en-US">Hats</display-name>
+  <parent name="5025"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20010">
+  <name>20010</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Career</description>
+  <display-name xml:lang="en-US">Career</display-name>
+  <parent name="2008"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20011">
+  <name>20011</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Casual</description>
+  <display-name xml:lang="en-US">Casual</display-name>
+  <parent name="2008"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20012">
+  <name>20012</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Vests</description>
+  <display-name xml:lang="en-US">Vests</display-name>
+  <parent name="2008"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20013">
+  <name>20013</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Tops</description>
+  <display-name xml:lang="en-US">Tops</display-name>
+  <parent name="2009"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20014">
+  <name>20014</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants</description>
+  <display-name xml:lang="en-US">Pants</display-name>
+  <parent name="2009"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20015">
+  <name>20015</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Skirts</description>
+  <display-name xml:lang="en-US">Skirts</display-name>
+  <parent name="2009"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20016">
+  <name>20016</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Jackets</description>
+  <display-name xml:lang="en-US">Jackets</display-name>
+  <parent name="2009"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20017">
+  <name>20017</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Special Occasion</description>
+  <display-name xml:lang="en-US">Special Occasion</display-name>
+  <parent name="2010"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20018">
+  <name>20018</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Career</description>
+  <display-name xml:lang="en-US">Career</display-name>
+  <parent name="2010"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20019">
+  <name>20019</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Casual</description>
+  <display-name xml:lang="en-US">Casual</display-name>
+  <parent name="2010"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="4008">
+  <name>4008</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shoes</description>
+  <display-name xml:lang="en-US">Shoes</display-name>
+  <parent name="401"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="4009">
+  <name>4009</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Home</description>
+  <display-name xml:lang="en-US">Home</display-name>
+  <parent name="401"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="4000">
+  <name>4000</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Women</description>
+  <display-name xml:lang="en-US">Women</display-name>
+  <parent name="400"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="4001">
+  <name>4001</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Men</description>
+  <display-name xml:lang="en-US">Men</display-name>
+  <parent name="400"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="4002">
+  <name>4002</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accessories</description>
+  <display-name xml:lang="en-US">Accessories</display-name>
+  <parent name="400"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="4003">
+  <name>4003</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shoes</description>
+  <display-name xml:lang="en-US">Shoes</display-name>
+  <parent name="400"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="4004">
+  <name>4004</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Home</description>
+  <display-name xml:lang="en-US">Home</display-name>
+  <parent name="400"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="4005">
+  <name>4005</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Women</description>
+  <display-name xml:lang="en-US">Women</display-name>
+  <parent name="401"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="4006">
+  <name>4006</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Men</description>
+  <display-name xml:lang="en-US">Men</display-name>
+  <parent name="401"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="4007">
+  <name>4007</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accessories</description>
+  <display-name xml:lang="en-US">Accessories</display-name>
+  <parent name="401"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="201">
+  <name>201</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Apparel</description>
+  <display-name xml:lang="en-US">Apparel</display-name>
+  <parent name="20"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="200">
+  <name>200</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Featured</description>
+  <display-name xml:lang="en-US">Featured</display-name>
+  <parent name="20"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8030">
+  <name>8030</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Beds</description>
+  <display-name xml:lang="en-US">Beds</display-name>
+  <parent name="806"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="70">
+  <name>70</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>1.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shoes</description>
+  <display-name xml:lang="en-US">Shoes</display-name>
+  <parent name="25"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8028">
+  <name>8028</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Upright</description>
+  <display-name xml:lang="en-US">Upright</display-name>
+  <parent name="805"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8029">
+  <name>8029</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Travel Accessories</description>
+  <display-name xml:lang="en-US">Travel Accessories</display-name>
+  <parent name="805"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8022">
+  <name>8022</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Electronics</description>
+  <display-name xml:lang="en-US">Electronics</display-name>
+  <parent name="804"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8023">
+  <name>8023</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Toys &amp; Games</description>
+  <display-name xml:lang="en-US">Toys &amp; Games</display-name>
+  <parent name="804"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8020">
+  <name>8020</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Table Linens</description>
+  <display-name xml:lang="en-US">Table Linens</display-name>
+  <parent name="803"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8021">
+  <name>8021</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Kitchen &amp; Cookware</description>
+  <display-name xml:lang="en-US">Kitchen &amp; Cookware</display-name>
+  <parent name="803"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8026">
+  <name>8026</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Totes</description>
+  <display-name xml:lang="en-US">Totes</display-name>
+  <parent name="805"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8027">
+  <name>8027</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Duffels</description>
+  <display-name xml:lang="en-US">Duffels</display-name>
+  <parent name="805"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8024">
+  <name>8024</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Novelty</description>
+  <display-name xml:lang="en-US">Novelty</display-name>
+  <parent name="804"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8025">
+  <name>8025</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Carry On</description>
+  <display-name xml:lang="en-US">Carry On</display-name>
+  <parent name="805"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80034">
+  <name>80034</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Everyday</description>
+  <display-name xml:lang="en-US">Everyday</display-name>
+  <parent name="8016"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80035">
+  <name>80035</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fashion</description>
+  <display-name xml:lang="en-US">Fashion</display-name>
+  <parent name="8017"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80036">
+  <name>80036</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Everyday</description>
+  <display-name xml:lang="en-US">Everyday</display-name>
+  <parent name="8017"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80037">
+  <name>80037</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Drink Dispensers</description>
+  <display-name xml:lang="en-US">Drink Dispensers</display-name>
+  <parent name="8017"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80030">
+  <name>80030</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Artwork</description>
+  <display-name xml:lang="en-US">Artwork</display-name>
+  <parent name="8014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80031">
+  <name>80031</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Mirors</description>
+  <display-name xml:lang="en-US">Mirors</display-name>
+  <parent name="8014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80032">
+  <name>80032</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Clocks</description>
+  <display-name xml:lang="en-US">Clocks</display-name>
+  <parent name="8014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80033">
+  <name>80033</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fashion</description>
+  <display-name xml:lang="en-US">Fashion</display-name>
+  <parent name="8016"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80038">
+  <name>80038</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bar Glasses</description>
+  <display-name xml:lang="en-US">Bar Glasses</display-name>
+  <parent name="8017"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80039">
+  <name>80039</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bar &amp; Wine Accessories</description>
+  <display-name xml:lang="en-US">Bar &amp; Wine Accessories</display-name>
+  <parent name="8017"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="gift_certificates">
+  <name>gift_certificates</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Gift Certificates are items that can be bought and then used for payment purposes.</description>
+  <display-name xml:lang="en-US">Gift certificates</display-name>
+  <parent name="25"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50001">
+  <name>50001</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Vinyl</description>
+  <display-name xml:lang="en-US">Vinyl</display-name>
+  <parent name="5002"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50004">
+  <name>50004</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Evening </description>
+  <display-name xml:lang="en-US">Evening </display-name>
+  <parent name="5002"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20029">
+  <name>20029</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Panties</description>
+  <display-name xml:lang="en-US">Panties</display-name>
+  <parent name="2014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20028">
+  <name>20028</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shapewear</description>
+  <display-name xml:lang="en-US">Shapewear</display-name>
+  <parent name="2014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20021">
+  <name>20021</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Crops</description>
+  <display-name xml:lang="en-US">Crops</display-name>
+  <parent name="2011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20020">
+  <name>20020</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants</description>
+  <display-name xml:lang="en-US">Pants</display-name>
+  <parent name="2011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20023">
+  <name>20023</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Leggings</description>
+  <display-name xml:lang="en-US">Leggings</display-name>
+  <parent name="2011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20022">
+  <name>20022</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shorts</description>
+  <display-name xml:lang="en-US">Shorts</display-name>
+  <parent name="2011"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20025">
+  <name>20025</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Casual</description>
+  <display-name xml:lang="en-US">Casual</display-name>
+  <parent name="2013"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20024">
+  <name>20024</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Career</description>
+  <display-name xml:lang="en-US">Career</display-name>
+  <parent name="2013"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20027">
+  <name>20027</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Camisoles &amp; Tanks</description>
+  <display-name xml:lang="en-US">Camisoles &amp; Tanks</display-name>
+  <parent name="2014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20026">
+  <name>20026</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bras</description>
+  <display-name xml:lang="en-US">Bras</display-name>
+  <parent name="2014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="gift_cards">
+  <name>gift_cards</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>1.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Gift Cards are items that can be bought and then used for payment purposes.</description>
+  <display-name xml:lang="en-US">Gift cards</display-name>
+  <parent name="25"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="502">
+  <name>502</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Men</description>
+  <display-name xml:lang="en-US">Men</display-name>
+  <parent name="50"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="500">
+  <name>500</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Featured</description>
+  <display-name xml:lang="en-US">Featured</display-name>
+  <parent name="50"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="501">
+  <name>501</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Women</description>
+  <display-name xml:lang="en-US">Women</display-name>
+  <parent name="50"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5021">
+  <name>5021</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Belts </description>
+  <display-name xml:lang="en-US">Belts </display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5020">
+  <name>5020</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Ties</description>
+  <display-name xml:lang="en-US">Ties</display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5023">
+  <name>5023</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Hats</description>
+  <display-name xml:lang="en-US">Hats</display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5022">
+  <name>5022</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Socks</description>
+  <display-name xml:lang="en-US">Socks</display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5025">
+  <name>5025</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Cold Weather Gear</description>
+  <display-name xml:lang="en-US">Cold Weather Gear</display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5024">
+  <name>5024</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Rain Gear</description>
+  <display-name xml:lang="en-US">Rain Gear</display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5027">
+  <name>5027</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Travel &amp; Tech Accessories</description>
+  <display-name xml:lang="en-US">Travel &amp; Tech Accessories</display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5026">
+  <name>5026</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Footwear (if no DSW)</description>
+  <display-name xml:lang="en-US">Footwear (if no DSW)</display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80023">
+  <name>80023</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accent</description>
+  <display-name xml:lang="en-US">Accent</display-name>
+  <parent name="8009"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2014">
+  <name>2014</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Lingerie</description>
+  <display-name xml:lang="en-US">Lingerie</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80021">
+  <name>80021</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Containers</description>
+  <display-name xml:lang="en-US">Containers</display-name>
+  <parent name="8008"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80020">
+  <name>80020</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Candle Holders &amp; Lanterns</description>
+  <display-name xml:lang="en-US">Candle Holders &amp; Lanterns</display-name>
+  <parent name="8008"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80026">
+  <name>80026</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fans</description>
+  <display-name xml:lang="en-US">Fans</display-name>
+  <parent name="8012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80025">
+  <name>80025</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Lamps</description>
+  <display-name xml:lang="en-US">Lamps</display-name>
+  <parent name="8012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80024">
+  <name>80024</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Area</description>
+  <display-name xml:lang="en-US">Area</display-name>
+  <parent name="8009"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10004">
+  <name>10004</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Vests</description>
+  <display-name xml:lang="en-US">Vests</display-name>
+  <parent name="1004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10005">
+  <name>10005</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pullovers</description>
+  <display-name xml:lang="en-US">Pullovers</display-name>
+  <parent name="1006"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10006">
+  <name>10006</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Cardigans and vests</description>
+  <display-name xml:lang="en-US">Cardigans and vests</display-name>
+  <parent name="1006"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10007">
+  <name>10007</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sport Coats</description>
+  <display-name xml:lang="en-US">Sport Coats</display-name>
+  <parent name="1007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10000">
+  <name>10000</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Dress Shirts</description>
+  <display-name xml:lang="en-US">Dress Shirts</display-name>
+  <parent name="1004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10001">
+  <name>10001</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Casual Shirts</description>
+  <display-name xml:lang="en-US">Casual Shirts</display-name>
+  <parent name="1004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10002">
+  <name>10002</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Polo</description>
+  <display-name xml:lang="en-US">Polo</display-name>
+  <parent name="1004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10003">
+  <name>10003</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Tees</description>
+  <display-name xml:lang="en-US">Tees</display-name>
+  <parent name="1004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10008">
+  <name>10008</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Blazers</description>
+  <display-name xml:lang="en-US">Blazers</display-name>
+  <parent name="1007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10009">
+  <name>10009</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Jackets</description>
+  <display-name xml:lang="en-US">Jackets</display-name>
+  <parent name="1008"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50028">
+  <name>50028</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pumps &amp; Heels (Casual) need to use casual if no DSW</description>
+  <display-name xml:lang="en-US">Pumps &amp; Heels (Casual) need to use casual if no DSW</display-name>
+  <parent name="5015"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50029">
+  <name>50029</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Slippers</description>
+  <display-name xml:lang="en-US">Slippers</display-name>
+  <parent name="5015"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80009">
+  <name>80009</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Blankets</description>
+  <display-name xml:lang="en-US">Blankets</display-name>
+  <parent name="8004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80008">
+  <name>80008</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Throws</description>
+  <display-name xml:lang="en-US">Throws</display-name>
+  <parent name="8004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80005">
+  <name>80005</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Down Alternative</description>
+  <display-name xml:lang="en-US">Down Alternative</display-name>
+  <parent name="8003"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80004">
+  <name>80004</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Down Comforters</description>
+  <display-name xml:lang="en-US">Down Comforters</display-name>
+  <parent name="8003"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80007">
+  <name>80007</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pillows</description>
+  <display-name xml:lang="en-US">Pillows</display-name>
+  <parent name="8003"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80006">
+  <name>80006</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Mattress Pads</description>
+  <display-name xml:lang="en-US">Mattress Pads</display-name>
+  <parent name="8003"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80001">
+  <name>80001</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Quilts</description>
+  <display-name xml:lang="en-US">Quilts</display-name>
+  <parent name="8002"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80000">
+  <name>80000</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Comforters</description>
+  <display-name xml:lang="en-US">Comforters</display-name>
+  <parent name="8002"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80003">
+  <name>80003</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pillowcases</description>
+  <display-name xml:lang="en-US">Pillowcases</display-name>
+  <parent name="8002"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80002">
+  <name>80002</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sheets</description>
+  <display-name xml:lang="en-US">Sheets</display-name>
+  <parent name="8002"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="803">
+  <name>803</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Home Entertaining</description>
+  <display-name xml:lang="en-US">Home Entertaining</display-name>
+  <parent name="80"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="802">
+  <name>802</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Home Decor</description>
+  <display-name xml:lang="en-US">Home Decor</display-name>
+  <parent name="80"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="801">
+  <name>801</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bed &amp; Bath</description>
+  <display-name xml:lang="en-US">Bed &amp; Bath</display-name>
+  <parent name="80"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="800">
+  <name>800</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Featured</description>
+  <display-name xml:lang="en-US">Featured</display-name>
+  <parent name="80"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="806">
+  <name>806</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pet</description>
+  <display-name xml:lang="en-US">Pet</display-name>
+  <parent name="80"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="805">
+  <name>805</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Luggage</description>
+  <display-name xml:lang="en-US">Luggage</display-name>
+  <parent name="80"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="804">
+  <name>804</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>2.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Gifts &amp; Electronics</description>
+  <display-name xml:lang="en-US">Gifts &amp; Electronics</display-name>
+  <parent name="80"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2008">
+  <name>2008</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Jackets</description>
+  <display-name xml:lang="en-US">Jackets</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2009">
+  <name>2009</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Suit  separates</description>
+  <display-name xml:lang="en-US">Suit  separates</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50">
+  <name>50</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>1.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accessories</description>
+  <display-name xml:lang="en-US">Accessories</display-name>
+  <parent name="25"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5010">
+  <name>5010</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Belts</description>
+  <display-name xml:lang="en-US">Belts</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5011">
+  <name>5011</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fragrance </description>
+  <display-name xml:lang="en-US">Fragrance </display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5012">
+  <name>5012</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bath &amp; Body</description>
+  <display-name xml:lang="en-US">Bath &amp; Body</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5013">
+  <name>5013</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Rain Gear</description>
+  <display-name xml:lang="en-US">Rain Gear</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8031">
+  <name>8031</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Decorative</description>
+  <display-name xml:lang="en-US">Decorative</display-name>
+  <parent name="806"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5015">
+  <name>5015</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Footwear (if no DSW)</description>
+  <display-name xml:lang="en-US">Footwear (if no DSW)</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5016">
+  <name>5016</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Travel &amp; Tech Accessories</description>
+  <display-name xml:lang="en-US">Travel &amp; Tech Accessories</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8032">
+  <name>8032</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accessories</description>
+  <display-name xml:lang="en-US">Accessories</display-name>
+  <parent name="806"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5018">
+  <name>5018</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Wallets</description>
+  <display-name xml:lang="en-US">Wallets</display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5019">
+  <name>5019</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Eyewear</description>
+  <display-name xml:lang="en-US">Eyewear</display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80041">
+  <name>80041</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Wood</description>
+  <display-name xml:lang="en-US">Wood</display-name>
+  <parent name="8018"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80040">
+  <name>80040</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Metal</description>
+  <display-name xml:lang="en-US">Metal</display-name>
+  <parent name="8018"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80043">
+  <name>80043</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Ceramic</description>
+  <display-name xml:lang="en-US">Ceramic</display-name>
+  <parent name="8018"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80042">
+  <name>80042</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Glass</description>
+  <display-name xml:lang="en-US">Glass</display-name>
+  <parent name="8018"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80045">
+  <name>80045</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Acrylics</description>
+  <display-name xml:lang="en-US">Acrylics</display-name>
+  <parent name="8019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80044">
+  <name>80044</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Acrylic</description>
+  <display-name xml:lang="en-US">Acrylic</display-name>
+  <parent name="8018"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80047">
+  <name>80047</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Chairs</description>
+  <display-name xml:lang="en-US">Chairs</display-name>
+  <parent name="8019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80046">
+  <name>80046</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">BBQ</description>
+  <display-name xml:lang="en-US">BBQ</display-name>
+  <parent name="8019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80049">
+  <name>80049</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Totes</description>
+  <display-name xml:lang="en-US">Totes</display-name>
+  <parent name="8019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80048">
+  <name>80048</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Rolling Coolers</description>
+  <display-name xml:lang="en-US">Rolling Coolers</display-name>
+  <parent name="8019"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10031">
+  <name>10031</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Golf Balls</description>
+  <display-name xml:lang="en-US">Golf Balls</display-name>
+  <parent name="1017"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10030">
+  <name>10030</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Wind Wear</description>
+  <display-name xml:lang="en-US">Wind Wear</display-name>
+  <parent name="1014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10033">
+  <name>10033</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Golf Hats</description>
+  <display-name xml:lang="en-US">Golf Hats</display-name>
+  <parent name="1017"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="10032">
+  <name>10032</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Golf Accessories </description>
+  <display-name xml:lang="en-US">Golf Accessories </display-name>
+  <parent name="1017"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7018">
+  <name>7018</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">TBD (based on DSW)</description>
+  <display-name xml:lang="en-US">TBD (based on DSW)</display-name>
+  <parent name="702"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7016">
+  <name>7016</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Slippers</description>
+  <display-name xml:lang="en-US">Slippers</display-name>
+  <parent name="702"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5014">
+  <name>5014</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Cold Weather Gear</description>
+  <display-name xml:lang="en-US">Cold Weather Gear</display-name>
+  <parent name="501"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7014">
+  <name>7014</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Boots</description>
+  <display-name xml:lang="en-US">Boots</display-name>
+  <parent name="702"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7015">
+  <name>7015</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Athletic</description>
+  <display-name xml:lang="en-US">Athletic</display-name>
+  <parent name="702"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7012">
+  <name>7012</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Casual</description>
+  <display-name xml:lang="en-US">Casual</display-name>
+  <parent name="702"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7013">
+  <name>7013</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sandals</description>
+  <display-name xml:lang="en-US">Sandals</display-name>
+  <parent name="702"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7010">
+  <name>7010</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">TBD (based on DSW)</description>
+  <display-name xml:lang="en-US">TBD (based on DSW)</display-name>
+  <parent name="701"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="7011">
+  <name>7011</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Dress</description>
+  <display-name xml:lang="en-US">Dress</display-name>
+  <parent name="702"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20038">
+  <name>20038</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fleece</description>
+  <display-name xml:lang="en-US">Fleece</display-name>
+  <parent name="2016"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20039">
+  <name>20039</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Jackets</description>
+  <display-name xml:lang="en-US">Jackets</display-name>
+  <parent name="2016"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20032">
+  <name>20032</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pajamas</description>
+  <display-name xml:lang="en-US">Pajamas</display-name>
+  <parent name="2015"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20033">
+  <name>20033</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Robes</description>
+  <display-name xml:lang="en-US">Robes</display-name>
+  <parent name="2015"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20030">
+  <name>20030</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Hosiery</description>
+  <display-name xml:lang="en-US">Hosiery</display-name>
+  <parent name="2014"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="5017">
+  <name>5017</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Watches &amp; Jewelry</description>
+  <display-name xml:lang="en-US">Watches &amp; Jewelry</display-name>
+  <parent name="502"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20036">
+  <name>20036</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pants</description>
+  <display-name xml:lang="en-US">Pants</display-name>
+  <parent name="2016"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20037">
+  <name>20037</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shorts</description>
+  <display-name xml:lang="en-US">Shorts</display-name>
+  <parent name="2016"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20034">
+  <name>20034</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Slippers</description>
+  <display-name xml:lang="en-US">Slippers</display-name>
+  <parent name="2015"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20035">
+  <name>20035</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Tees</description>
+  <display-name xml:lang="en-US">Tees</display-name>
+  <parent name="2016"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50016">
+  <name>50016</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Mirrors</description>
+  <display-name xml:lang="en-US">Mirrors</display-name>
+  <parent name="5012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="1020">
+  <name>1020</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Novelty</description>
+  <display-name xml:lang="en-US">Novelty</display-name>
+  <parent name="103"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50010">
+  <name>50010</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pins</description>
+  <display-name xml:lang="en-US">Pins</display-name>
+  <parent name="5004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="40">
+  <name>40</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>1.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sale</description>
+  <display-name xml:lang="en-US">Sale</display-name>
+  <parent name="25"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2004">
+  <name>2004</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shoes</description>
+  <display-name xml:lang="en-US">Shoes</display-name>
+  <parent name="200"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2005">
+  <name>2005</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Tops</description>
+  <display-name xml:lang="en-US">Tops</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8008">
+  <name>8008</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Decorative Accessories</description>
+  <display-name xml:lang="en-US">Decorative Accessories</display-name>
+  <parent name="802"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8009">
+  <name>8009</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accent &amp; Area Rugs</description>
+  <display-name xml:lang="en-US">Accent &amp; Area Rugs</display-name>
+  <parent name="802"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8004">
+  <name>8004</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Throws &amp; Blankets</description>
+  <display-name xml:lang="en-US">Throws &amp; Blankets</display-name>
+  <parent name="801"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8005">
+  <name>8005</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Decorative Pillows</description>
+  <display-name xml:lang="en-US">Decorative Pillows</display-name>
+  <parent name="801"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8006">
+  <name>8006</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Towels</description>
+  <display-name xml:lang="en-US">Towels</display-name>
+  <parent name="801"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8007">
+  <name>8007</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bath Accessories</description>
+  <display-name xml:lang="en-US">Bath Accessories</display-name>
+  <parent name="801"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8000">
+  <name>8000</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">New Arrivals</description>
+  <display-name xml:lang="en-US">New Arrivals</display-name>
+  <parent name="800"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8001">
+  <name>8001</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fab Finds</description>
+  <display-name xml:lang="en-US">Fab Finds</display-name>
+  <parent name="800"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8002">
+  <name>8002</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bedding</description>
+  <display-name xml:lang="en-US">Bedding</display-name>
+  <parent name="801"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="8003">
+  <name>8003</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US"> Bedding Essentials</description>
+  <display-name xml:lang="en-US"> Bedding Essentials</display-name>
+  <parent name="801"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50017">
+  <name>50017</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Hand &amp; Foot</description>
+  <display-name xml:lang="en-US">Hand &amp; Foot</display-name>
+  <parent name="5012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20007">
+  <name>20007</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Wraps &amp; Shrugs</description>
+  <display-name xml:lang="en-US">Wraps &amp; Shrugs</display-name>
+  <parent name="2007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50015">
+  <name>50015</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accessories</description>
+  <display-name xml:lang="en-US">Accessories</display-name>
+  <parent name="5006"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50014">
+  <name>50014</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Readers</description>
+  <display-name xml:lang="en-US">Readers</display-name>
+  <parent name="5006"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50013">
+  <name>50013</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sunglasses</description>
+  <display-name xml:lang="en-US">Sunglasses</display-name>
+  <parent name="5006"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50012">
+  <name>50012</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Seasonal</description>
+  <display-name xml:lang="en-US">Seasonal</display-name>
+  <parent name="5004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50011">
+  <name>50011</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Boxed</description>
+  <display-name xml:lang="en-US">Boxed</display-name>
+  <parent name="5004"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="20006">
+  <name>20006</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Pullovers</description>
+  <display-name xml:lang="en-US">Pullovers</display-name>
+  <parent name="2007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50019">
+  <name>50019</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sets</description>
+  <display-name xml:lang="en-US">Sets</display-name>
+  <parent name="5012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="50018">
+  <name>50018</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Collections</description>
+  <display-name xml:lang="en-US">Collections</display-name>
+  <parent name="5012"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2002">
+  <name>2002</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fab Finds</description>
+  <display-name xml:lang="en-US">Fab Finds</display-name>
+  <parent name="200"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2003">
+  <name>2003</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Accessories</description>
+  <display-name xml:lang="en-US">Accessories</display-name>
+  <parent name="200"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2000">
+  <name>2000</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Boutique in font</description>
+  <display-name xml:lang="en-US">Boutique in font</display-name>
+  <parent name="200"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2001">
+  <name>2001</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">New Arrivals</description>
+  <display-name xml:lang="en-US">New Arrivals</display-name>
+  <parent name="200"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2006">
+  <name>2006</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Cashmere</description>
+  <display-name xml:lang="en-US">Cashmere</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="2007">
+  <name>2007</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>3.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Sweaters</description>
+  <display-name xml:lang="en-US">Sweaters</display-name>
+  <parent name="201"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80018">
+  <name>80018</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Shower Curtains</description>
+  <display-name xml:lang="en-US">Shower Curtains</display-name>
+  <parent name="8007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80019">
+  <name>80019</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Decoratives Accessories</description>
+  <display-name xml:lang="en-US">Decoratives Accessories</display-name>
+  <parent name="8008"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80016">
+  <name>80016</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bath Rugs</description>
+  <display-name xml:lang="en-US">Bath Rugs</display-name>
+  <parent name="8007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80017">
+  <name>80017</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bath Accessories</description>
+  <display-name xml:lang="en-US">Bath Accessories</display-name>
+  <parent name="8007"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80014">
+  <name>80014</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Beach</description>
+  <display-name xml:lang="en-US">Beach</display-name>
+  <parent name="8006"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80015">
+  <name>80015</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Bath</description>
+  <display-name xml:lang="en-US">Bath</display-name>
+  <parent name="8006"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80012">
+  <name>80012</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Solid</description>
+  <display-name xml:lang="en-US">Solid</display-name>
+  <parent name="8006"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80013">
+  <name>80013</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Decorative</description>
+  <display-name xml:lang="en-US">Decorative</display-name>
+  <parent name="8006"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80010">
+  <name>80010</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Solid</description>
+  <display-name xml:lang="en-US">Solid</display-name>
+  <parent name="8005"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+<category name="80011">
+  <name>80011</name>
+  <root>0</root>
+  <product-assignment-query/>
+  <template>category/CatalogCategory</template>
+  <online>1</online>
+  <position>4.0</position>
+  <category-links/>
+  <description xml:lang="en-US">Fashion</description>
+  <display-name xml:lang="en-US">Fashion</display-name>
+  <parent name="8005"/>
+  <custom-attributes>
+    <custom-attribute dt:dt="string" name="ShowInMenu">true</custom-attribute>
+  </custom-attributes>
+</category>
+
+</enfinity>
