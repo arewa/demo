@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Main12 {
 	public static void main(String[] args) {
-		Object[] input = new Object[] { 1, 2, 3, new Object[]{ new Object[] { new Object[] { new Object[] {4} }, 5, null, null } } };
+		Object[] input = new Object[] { 1, 2, 3, new Object[]{ new Object[] { new Object[] { new Object[] { new Object[] { 4 } } }, 5, null, null } } };
 		
 		System.out.println(norm(input));
 		
