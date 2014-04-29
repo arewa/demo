@@ -35,14 +35,14 @@ import javax.xml.bind.annotation.XmlEnumValue;
 import org.objectweb.asm.ClassReader;
 import org.objectweb.asm.ClassWriter;
 
-import sun.reflect.ConstructorAccessor;
-import sun.reflect.FieldAccessor;
-import sun.reflect.ReflectionFactory;
+//import sun.reflect.ConstructorAccessor;
+//import sun.reflect.FieldAccessor;
+//import sun.reflect.ReflectionFactory;
 
 public class DynamicEnumTest {
 
-	private static ReflectionFactory reflectionFactory = ReflectionFactory
-			.getReflectionFactory();
+//	private static ReflectionFactory reflectionFactory = ReflectionFactory
+//			.getReflectionFactory();
 
 	private static void setFailsafeFieldValue(Field field, Object target,
 			Object value) throws NoSuchFieldException, IllegalAccessException {
@@ -62,8 +62,8 @@ public class DynamicEnumTest {
 		// modifiers &= ~Modifier.STATIC;
 		modifiersField.setInt(field, modifiers);
 
-		FieldAccessor fa = reflectionFactory.newFieldAccessor(field, false);
-		fa.set(target, value);
+//		FieldAccessor fa = reflectionFactory.newFieldAccessor(field, false);
+//		fa.set(target, value);
 	}
 
 	private static void blankField(Class<?> enumClass, String fieldName)
@@ -84,31 +84,31 @@ public class DynamicEnumTest {
 		blankField(enumClass, "enumConstants"); // IBM JDK
 	}
 
-	private static ConstructorAccessor getConstructorAccessor(
-			Class<?> enumClass, Class<?>[] additionalParameterTypes)
-			throws NoSuchMethodException {
-		Class<?>[] parameterTypes = new Class[additionalParameterTypes.length + 3];
-		parameterTypes[0] = String.class;
-		parameterTypes[1] = int.class;
-		parameterTypes[2] = String.class;
-		System.arraycopy(additionalParameterTypes, 0, parameterTypes, 3,
-				additionalParameterTypes.length);
-		return reflectionFactory.newConstructorAccessor(enumClass
-				.getDeclaredConstructor(parameterTypes));
-	}
-
-	private static Object makeEnum(Class<?> enumClass, String key,
-			String value, int ordinal, Class<?>[] additionalTypes,
-			Object[] additionalValues) throws Exception {
-		Object[] parms = new Object[additionalValues.length + 3];
-		parms[0] = key;
-		parms[1] = Integer.valueOf(ordinal);
-		parms[2] = value;
-		System.arraycopy(additionalValues, 0, parms, 3, additionalValues.length);
-		return enumClass
-				.cast(getConstructorAccessor(enumClass, additionalTypes)
-						.newInstance(parms));
-	}
+//	private static ConstructorAccessor getConstructorAccessor(
+//			Class<?> enumClass, Class<?>[] additionalParameterTypes)
+//			throws NoSuchMethodException {
+//		Class<?>[] parameterTypes = new Class[additionalParameterTypes.length + 3];
+//		parameterTypes[0] = String.class;
+//		parameterTypes[1] = int.class;
+//		parameterTypes[2] = String.class;
+//		System.arraycopy(additionalParameterTypes, 0, parameterTypes, 3,
+//				additionalParameterTypes.length);
+//		return reflectionFactory.newConstructorAccessor(enumClass
+//				.getDeclaredConstructor(parameterTypes));
+//	}
+//
+//	private static Object makeEnum(Class<?> enumClass, String key,
+//			String value, int ordinal, Class<?>[] additionalTypes,
+//			Object[] additionalValues) throws Exception {
+//		Object[] parms = new Object[additionalValues.length + 3];
+//		parms[0] = key;
+//		parms[1] = Integer.valueOf(ordinal);
+//		parms[2] = value;
+//		System.arraycopy(additionalValues, 0, parms, 3, additionalValues.length);
+//		return enumClass
+//				.cast(getConstructorAccessor(enumClass, additionalTypes)
+//						.newInstance(parms));
+//	}
 
 	/**
 	 * Add an enum instance to the enum class given as argument
@@ -142,39 +142,39 @@ public class DynamicEnumTest {
 		}
 		AccessibleObject.setAccessible(new Field[] { valuesField }, true);
 
-		try {
-
-			// 2. Copy it
-			T[] previousValues = (T[]) valuesField.get(enumType);
-			List<T> values = new ArrayList<T>(Arrays.asList(previousValues));
-
-			// 3. build new enum
-			T newValue = (T) makeEnum(enumType, // The target enum class
-					enumKey, // THE NEW ENUM INSTANCE TO BE DYNAMICALLY ADDED
-					enumValue, values.size(), new Class<?>[] {}, // could be
-																	// used to
-																	// pass
-																	// values to
-																	// the enum
-																	// constuctor
-																	// if needed
-					new Object[] {}); // could be used to pass values to the
-										// enum constuctor if needed
-
-			// 4. add new value
-			values.add(newValue);
-
-			// 5. Set new values field
-			setFailsafeFieldValue(valuesField, null,
-					values.toArray((T[]) Array.newInstance(enumType, 0)));
-
-			// 6. Clean enum cache
-			cleanEnumCache(enumType);
-
-		} catch (Exception e) {
-			e.printStackTrace();
-			throw new RuntimeException(e.getMessage(), e);
-		}
+//		try {
+//
+//			// 2. Copy it
+//			T[] previousValues = (T[]) valuesField.get(enumType);
+//			List<T> values = new ArrayList<T>(Arrays.asList(previousValues));
+//
+//			// 3. build new enum
+//			T newValue = (T) makeEnum(enumType, // The target enum class
+//					enumKey, // THE NEW ENUM INSTANCE TO BE DYNAMICALLY ADDED
+//					enumValue, values.size(), new Class<?>[] {}, // could be
+//																	// used to
+//																	// pass
+//																	// values to
+//																	// the enum
+//																	// constuctor
+//																	// if needed
+//					new Object[] {}); // could be used to pass values to the
+//										// enum constuctor if needed
+//
+//			// 4. add new value
+//			values.add(newValue);
+//
+//			// 5. Set new values field
+//			setFailsafeFieldValue(valuesField, null,
+//					values.toArray((T[]) Array.newInstance(enumType, 0)));
+//
+//			// 6. Clean enum cache
+//			cleanEnumCache(enumType);
+//
+//		} catch (Exception e) {
+//			e.printStackTrace();
+//			throw new RuntimeException(e.getMessage(), e);
+//		}
 	}
 
 	// private static enum TestEnum {
