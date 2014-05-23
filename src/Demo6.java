@@ -26,47 +26,36 @@ public class Demo6 {
 		
 		for (int i = 0; i < step * 2 + 1; i ++) {
 			int t1 = y1 + i;
+			int t2 = y2 - i;
+			int t3 = x1 + i;
+			int t4 = x2 - i;			
+			
 			if (t1 < size) {
 				data[startPoint.x][t1] = available;
+				if (t3 < size) {
+					data[t3][t1] = available;
+				}
+				if (t4 >= 0) {
+					data[t4][t1] = available;
+				}
 			}
 			
-			t1 = y2 - i;
-			if (t1 >= 0) {
-				data[startPoint.x][t1] = available;
+			if (t3 < size) {
+				data[t3][startPoint.y] = available;
+				if (t2 >= 0) {
+					data[t3][t2] = available;
+				}
 			}
 			
-			t1 = x1 + i;
-			if (t1 < size) {
-				data[t1][startPoint.y] = available;
+			if (t4 >= 0) {
+				data[t4][startPoint.y] = available;
+				if (t2 >= 0) {
+					data[t4][t2] = available;
+				}
 			}
 			
-			t1 = x2 - i;
-			if (t1 >= 0) {
-				data[t1][startPoint.y] = available;
-			}
-			
-			t1 = x1 + i;
-			int t2 = y1 + i;
-			if ((t1 < size) && (t2 < size)) {
-				data[t1][t2] = available;
-			}
-			
-			t1 = x2 - i;
-			t2 = startPoint.y - speed + 1 - i;
-			if ((t1 >= 0) && (t2 >= 0)) {
-				data[t1][t2] = available;
-			}
-			
-			t1 = x1 + i;
-			t2 = y2 - i;
-			if ((t1 < size) && (t2 >= 0)) {
-				data[t1][t2] = available;
-			}
-			
-			t1 = x2 - i;
-			t2 = y1 + i;
-			if ((t1 >= 0) && (t2 < size)) {
-				data[t1][t2] = available;
+			if (t2 >= 0) {
+				data[startPoint.x][t2] = available;
 			}
 		}
 		
