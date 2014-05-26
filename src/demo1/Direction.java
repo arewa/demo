@@ -5,7 +5,6 @@ import java.util.List;
 
 public abstract class Direction {
 	
-	protected int playerSpeed;
 	protected List<Point> avaiableForTurn;
 	protected String[][] data;
 	protected int maxHops;
@@ -13,7 +12,6 @@ public abstract class Direction {
 	abstract Point computeNextPosition(Point currentPosition);
 	
 	public Direction(int playerSpeed, String[][] data, List<Point> avaiableForTurn) {
-		this.playerSpeed = playerSpeed;
 		this.data = data;
 		this.avaiableForTurn = avaiableForTurn;
 		this.maxHops = playerSpeed + 1;
