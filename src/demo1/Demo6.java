@@ -7,7 +7,7 @@ public class Demo6 {
 	
 	final static int speed = 3;
 	final static int step = 1;
-	final static Point startPoint = new Point(12, 12);
+	final static Point startPoint = new Point(12, 1);
 	final static String available = "x ";
 	static List<Point> avaiableForTurn = new ArrayList<Point>();
 	static List<Direction> directions = new ArrayList<Direction>();
