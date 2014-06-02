@@ -15,5 +15,10 @@ public class Switch3 {
                 case x-2: System.out.print("2 ");
             }
         }
+        
+        int a = 3;
+        int b = 4;
+        System.out.print(" " + 7 + 2 + " ");
+        System.out.print(a + b);
     }
 }
