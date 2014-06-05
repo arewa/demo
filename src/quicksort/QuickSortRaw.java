@@ -6,7 +6,7 @@ public class QuickSortRaw {
 
 	public static void main(String[] args) {
 		
-		int[] arr = new int[100000000];
+		int[] arr = new int[100000];
 		for (int i = 0; i < arr.length; i++) {
 			arr[i] = new Random().nextInt(1000);
 		}
